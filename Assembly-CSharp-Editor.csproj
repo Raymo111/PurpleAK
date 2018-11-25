@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C2184AA0-7FA6-0220-7CCB-28195D4232A8}</ProjectGuid>
+    <ProjectGuid>{52ED910C-7382-D0F2-4828-EF65FCABF0FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -90,16 +90,16 @@
      <Compile Include="Assets\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/raymo/AppData/Local/Temp/0229718adb3a76545a8e7c51ec2efdba/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/raymo/OneDrive/Documents/GitHub/PurpleAK/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/raymo/AppData/Local/Temp/0229718adb3a76545a8e7c51ec2efdba/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/raymo/OneDrive/Documents/GitHub/PurpleAK/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/raymo/AppData/Local/Temp/0229718adb3a76545a8e7c51ec2efdba/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/raymo/OneDrive/Documents/GitHub/PurpleAK/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/raymo/AppData/Local/Temp/0229718adb3a76545a8e7c51ec2efdba/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/raymo/OneDrive/Documents/GitHub/PurpleAK/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -389,7 +389,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{A33BC8E7-E216-E994-70DE-DE1EF69FE3C0}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{ABC005AA-6058-96AA-6DF6-64C7345AF129}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
